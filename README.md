@@ -1,3 +1,6 @@
+Remove it using shell command 
+recommend apps for that : ladb , termux , shizku (extra shell app required , brevent) all apps can found on Google play 
+
 MIUI & HYPEROS SAFE TO REMOVE BLOATWARES LIST‼️
 
 ⚠️❌Warning this is the list of bloatwares that i have uninstalled so u can uninstall it by as u like customizing this list on your own risk❌⚠️
