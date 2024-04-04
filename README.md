@@ -1,6 +1,6 @@
 Remove it using shell command 
 
-recommend apps for that : ladb , termux , shizku (extra shell app required , brevent) all apps can found on Google play 
+recommend apps for that : ladb , termux , shizku (extra shell app required) , brevent. all apps can found on Google play 
 
 MIUI & HYPEROS SAFE TO REMOVE BLOATWARES LIST‼️
 
@@ -78,6 +78,7 @@ MIUI & HYPEROS SAFE TO REMOVE BLOATWARES LIST‼️
 69. com.xiaomi.xmsfkeeper
 70. com.miui.yellowpage
 71. com.google.android.apps.youtube.music
-com.factory.mmigroup
-com.android.thememanager
+72. com.factory.mmigroup
+73. com.android.thememanager
 +--------------------------------------------------------------------------+
+that's all👍
