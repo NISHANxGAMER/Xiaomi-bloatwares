@@ -1,4 +1,5 @@
 Remove it using shell command 
+
 recommend apps for that : ladb , termux , shizku (extra shell app required , brevent) all apps can found on Google play 
 
 MIUI & HYPEROS SAFE TO REMOVE BLOATWARES LIST‼️
