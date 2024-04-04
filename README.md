@@ -75,9 +75,9 @@ MIUI & HYPEROS SAFE TO REMOVE BLOATWARES LIST‼️
 66. com.miui.cloudservice
 67. com.xiaomi.xmsf
 68. com.xiaomi.simactivate.service
-com.xiaomi.xmsfkeeper
-com.miui.yellowpage
-com.google.android.apps.youtube.music
+69. com.xiaomi.xmsfkeeper
+70. com.miui.yellowpage
+71. com.google.android.apps.youtube.music
 com.factory.mmigroup
 com.android.thememanager
 +--------------------------------------------------------------------------+
