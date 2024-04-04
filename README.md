@@ -80,6 +80,7 @@ MIUI & HYPEROS SAFE TO REMOVE BLOATWARES LIST‼️
 71. com.google.android.apps.youtube.music
 72. com.factory.mmigroup
 73. com.android.thememanager
+
 +--------------------------------------------------------------------------+
     
 that's all👍
